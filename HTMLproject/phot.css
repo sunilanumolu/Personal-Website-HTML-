@@ -1,0 +1,10 @@
+
+body{ background: url("photo.jpg");
+      background-size: cover;      
+     }
+
+article { margin-top: 500px;
+          margin-left: 0px;
+          font-size: 20px;
+          color: white;
+         }     

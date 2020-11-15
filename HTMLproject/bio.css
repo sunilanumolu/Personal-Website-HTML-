@@ -1,0 +1,39 @@
+body { background-color: pink;
+	   background-size: cover;
+     }
+header { font-size: 20px;
+         height: 50%;
+         font-style: italic;
+         line-height: 50px;
+         margin-left: 550px;
+         margin-top: 25px;
+         padding:10px;
+       }     
+li { font-size: 15px;
+	  font-style: italic;
+	  font-weight:10px;
+    }
+.container { background-color: skyblue;
+             height:900%;
+           }
+.container .what {
+                  float:left; 
+	               background-color: yellow;
+	               width:250px;
+                   height:800%;
+                   margin-left: 275px;
+                  }
+.container .is { 
+                 float: left;
+                 background-color: springgreen;
+                 margin-left: 5px;
+                 width:600px;
+                 height:800%;
+               }                 
+            a {
+                  text-decoration: none;
+                  color:brown;
+              }
+      a:hover {
+                  color:blue;                  
+              }              

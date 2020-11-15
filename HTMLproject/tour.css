@@ -1,0 +1,34 @@
+
+body { 
+     background: url("https://www.walldevil.com/wallpapers/a44/wallpaper-background-web-fractal21-wallpapers-3dfiction-images.jpg") no-repeat;
+     background-size:cover;
+     }
+@keyframes slider {
+
+0% {left: 0%;}
+20% { left:  0%; }
+25% { left: -75%; }
+45% { left: -100%; }
+50% { left: -200%; }
+70% { left: -200%; }
+75% { left: -300%; }
+95% { left: -300%; }
+100% { left: -400%; }
+
+}
+
+#slider { overflow: hidden; }
+
+#slider figure img { 
+                     float:left;
+                    }
+
+#slider figure { 
+	             position: relative;
+	             width: 500%;
+	             margin-top:70px;
+	             margin-left:0px;
+	             animation: 10s slider infinite;
+                }
+
+

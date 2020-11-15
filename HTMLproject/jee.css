@@ -1,0 +1,17 @@
+body { background-color:darkslategrey; 
+       }
+h2 { color:lime; }
+h3 { color:springgreen; }
+table { margin-top: 100px;
+        margin-left: 430px;
+        width:450px;
+
+       }
+td { border:2px solid brown;
+	 height: 25px;
+     text-align: center;
+     color:white;
+      }
+.sm { color: cyan;
+	  font-size: 20px;
+      }   

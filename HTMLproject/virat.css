@@ -1,0 +1,17 @@
+body { background: url("https://www.stockfreeimages.com/static/homepage/background03-free-stock-photo-287434.jpg");
+       background-size: cover;
+       }
+#left { float: left; }
+#img { float: right;}
+p { text-align: center;
+	font-size:30px;
+	font-style: italic;
+	color: brown;
+          }
+article { 
+		padding-left: 15px;
+		padding-right: 5px;
+	      width:500px;
+          float:left;
+          color: chartreuse; 
+        }

@@ -1,0 +1,12 @@
+html { height: 470px; }
+body { background: url("https://www.gabruu.com/wp-content/uploads/2017/03/69618_17479-1.jpg") no-repeat;
+       background-size: cover;
+      }
+
+article { text-align: center;
+          margin-left: 30px;
+          margin-top: 480px;
+          color: yellow;
+          font-size: 18px ;
+          font-style: italic;
+        }              
